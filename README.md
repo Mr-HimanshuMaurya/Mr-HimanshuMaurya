@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-HimanshuMaurya
 - 👀 I’m interested in Codding
 - 🌱 I’m currently learning DotNet
-- 💞️ I’m looking to collaborate on Everone
+- 💞️ I’m looking to collaborate with someone who also love coding making unique projects with a strong mindset
 - 📫 How to reach me maurahimanshu416@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
