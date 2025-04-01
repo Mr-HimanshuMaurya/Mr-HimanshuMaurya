@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HIMANSHU MAURYA <br><br> A passionate MERN Stack Developer from India</h1>
 <br><br>
 
- <p align = "center"><img src="https://en.bloggif.com/tmp/3bab06ea14291e76cecc356083ea722b/text.gif?1743436807.gif" alt="language" width="600" height="55"> </p>
+ <p align = "center"><img src="https://en.bloggif.com/tmp/3bab06ea14291e76cecc356083ea722b/text.gif?1743436807.gif" alt="language" width="600" height="50"> </p>
 
 <p align = "center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/javascript-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--coding-programming-pack-logos-animations-9812361.gif" alt="javascript" width="200" height="200"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/typescript-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--programming-signboard-hang-sign-message-words-on-board-pack-network-communication-icons-7598842.gif" alt="typescript" width="200" height="200"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/tailwind-css-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-pack-logos-icons-8814764.gif" alt="tailwind" width="200" height="200"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/git-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--github-programming-languages-logos-pack-company-brand-animations-5359247.gif" alt="git" width="200" height="200"/> </a></p><hr>
 
@@ -24,10 +24,12 @@
 
  
 
+<br><br>
 
-
-- 🔭 I’m currently working on [hotel booking website](https://bukhotel.onrender.com/listings)  <span align ="right"><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*nMJMc68JrqhaC1nD.gif" 
-                                                                                                                    alt="database" width="300" height="300"> </span>
+<p align = "left">   <img align = "right"                                                                                      src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*nMJMc68JrqhaC1nD.gif"                                                                                                                alt="database" width="500" height="300">
+ 
+- 🔭 I’m currently working on improving skills with [projects](https://bukhotel.onrender.com/listings)
+ 
 - 🌱 I’m currently learning **c#, DotNet**
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
@@ -36,16 +38,17 @@
 
 - 💬 Ask me about **React, frontend, backend, database, Rest APIs**
 
-- 📫 How to reach me **mauryahimanshu416@gmail.com**
+- 📫 How to reach me **mauryahimanshu416@gmail.com** </p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mr-himanshumaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-himanshumaurya" height="30" width="40" /></a>
-<a href="https://instagram.com/itz.himanshu2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.himanshu2k4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr-himanshumaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-himanshumaurya" height="40" width="40" /></a>&nbsp; &nbsp;
+<a href="https://instagram.com/itz.himanshu2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.himanshu2k4" height="40" width="40" /></a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
