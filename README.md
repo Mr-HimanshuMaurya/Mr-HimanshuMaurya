@@ -26,7 +26,7 @@
 
 <br><br>
 
-<p align = "left">   <img align = "right"                                                                                      src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*nMJMc68JrqhaC1nD.gif"                                                                                                                alt="database" width="500" height="300">
+<p align = "left">   <img align = "right"                                                                                      src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*nMJMc68JrqhaC1nD.gif"                                                                                                                alt="database" width="450" height="300">
  
 - 🔭 I’m currently working on improving skills with [projects](https://bukhotel.onrender.com/listings)
  
