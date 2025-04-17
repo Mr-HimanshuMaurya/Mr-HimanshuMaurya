@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HIMANSHU MAURYA <br><br> A passionate MERN Stack Developer from India</h1>
 <br><br>
 
- <p align = "center"><img src="https://en.bloggif.com/tmp/3bab06ea14291e76cecc356083ea722b/text.gif?1743436807.gif" alt="language" width="600" height="50"> </p>
+ <p align = "center" backgroundColour="blue">LANGUAGE & TOOLS </p>
 
 <p align = "center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/javascript-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--coding-programming-pack-logos-animations-9812361.gif" alt="javascript" width="200" height="200"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/typescript-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--programming-signboard-hang-sign-message-words-on-board-pack-network-communication-icons-7598842.gif" alt="typescript" width="200" height="200"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/tailwind-css-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--logo-pack-logos-icons-8814764.gif" alt="tailwind" width="200" height="200"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/git-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--github-programming-languages-logos-pack-company-brand-animations-5359247.gif" alt="git" width="200" height="200"/> </a></p><hr>
 
