@@ -19,7 +19,8 @@
 
  <p align = "center"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97989643/224550089-f2541ade-c5c6-4afa-8538-51a8dda4e23b.gif" alt="nodejs" width="300" height="150"/> </a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://colaninfotech.com/wp-content/uploads/2021/09/expressjs.gif" alt="express" width="300" height="150"/> </a></p>
 <br><br><hr><br><br>
- <p align = "center"><img src="https://en.bloggif.com/tmp/3bab06ea14291e76cecc356083ea722b/text.gif?1743435396.gif" alt="database" width="300" height="60"> </p>
+<!--  <p align = "center"><img src="https://en.bloggif.com/tmp/3bab06ea14291e76cecc356083ea722b/text.gif?1743435396.gif" alt="database" width="300" height="60"> </p> -->
+<h1 align = "center">DATABASE</h1>
 <p align = "center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/mongodb-database-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--db-network-cloud-web-technologies-pack-logos-animations-9717087.gif" alt="mongodb" width="300" height="200"/> </a> &nbsp; &nbsp; &nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdnl.iconscout.com/lottie/premium/thumb/mysql-database-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--db-network-web-technologies-pack-logos-animations-9717093.gif" alt="mysql" width="300" height="200"/> </a> </p><hr>
 
  
